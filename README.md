@@ -4,7 +4,7 @@ Chrome extension which allows to add channels to Irvue from Unsplash
 
 ## How to install
 
-First, you need to get latest version of the extension. You get it [here](/releases). Download `.zip` file and extract archive.
+First, you need to get latest version of the extension. You can get it [here](/releases). Download `.zip` file and extract archive.
 
 ### Chrome
 
