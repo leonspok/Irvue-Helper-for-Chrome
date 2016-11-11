@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Irvue Helper",
+  "description": "This extension allows to add channels to Irvue for OS X",
+  "version": "1.0",
+  "browser_action": {
+    "name": "Click to add channels to Irvue",
+    "default_icon": {
+      "19": "images/icon_19x19.png",
+      "38": "images/icon_38x38.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "16": "images/icon_16x16.png",
+    "48": "images/icon_48x48.png",
+    "128": "images/icon_128x128.png"
+  },
+  "permissions": [
+    "https://unsplash.com/*",
+    "http://unsplash.com/*"
+  ]
+}
